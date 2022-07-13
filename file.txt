@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 Hi Welcome to my Git Practice sessions FROM MASTER
-=======
-Hi Welcome to my Git Practice sessions
+
 updating with testing branch
 updating again with testing branch
->>>>>>> testing
+updating file from github
+
