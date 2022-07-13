@@ -1,1 +1,1 @@
-Hi Welcome to my Git Practice sessions
+Hi Welcome to my Git Practice sessions FROM MASTER
